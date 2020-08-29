@@ -8,6 +8,8 @@ SpotifyAPIを用いて音楽を再生しながらリアルタイムチャット�
 フロントエンド: React, Redux  
 バックエンド: Node.js  
 データベース: MongoDB  
+インフラ: Docker Compose  
+デプロイ: Heroku  
 その他: Socket.IO
 
 ## 開発人数
